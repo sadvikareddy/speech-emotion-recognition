@@ -13,7 +13,7 @@ alongside simpler machine learning models such as Decision Trees and Support Vec
 Machines (SVMs) to capture patterns in speech. Librosa is utilized for loading audio
 files, pre-processing, and extracting relevant features. The project's simplicity and
 efficiency make it distinct from existing SER systems, as it focuses on straightforward
-algorithms and leverages the modular and readable code of Librosa, making it both easy
+algorithms and leverages the modular and readable code of Librosa, making it  easy
 to implement and understand. Evaluations are conducted using standard datasets like
 RAVDESS to ensure robustness across diverse speakers and contexts, with metrics
 including accuracy, precision, recall, and F1 score. Results demonstrate that the SER
