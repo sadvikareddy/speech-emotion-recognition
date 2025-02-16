@@ -1,4 +1,4 @@
-"# speech-emotion-recognition" 
+
                            Title : Speech Emotion Recognition using LIBROSA.
 
                                            ABSTRACT
