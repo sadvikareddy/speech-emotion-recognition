@@ -1,7 +1,7 @@
 
                            Title : Speech Emotion Recognition using LIBROSA.
 
-                                           ABSTRACT
+                                               ABSTRACT
 This project aims to develop an effective Speech Emotion Recognition (SER) system
 by leveraging the capabilities of the Librosa library for audio analysis in Python. The
 system focuses on identifying and classifying human emotions from audio recordings
@@ -54,16 +54,6 @@ The system is implemented using the **Librosa** library in Python for audio proc
 5. **Evaluation & Performance Metrics**  
    - Using **accuracy, precision, recall, and F1 score** to measure model effectiveness.  
 
----
-
-### **REAL-TIME EXAMPLES**  
-- **Smart Cars & Driver Assistance**  
-  - Detects driver stress or drowsiness to prevent accidents.  
-- **Interactive Voice Response (IVR) Systems**  
-  - Identifies customer frustration and redirects calls accordingly.  
-- **Telemedicine & Remote Therapy**  
-  - Identifies patient distress through voice during virtual consultations.  
-- **Smart Home Automation**  
-  - Adjusts lighting, music, or temperature based on detected emotions.  
+  
 
 
