@@ -71,6 +71,5 @@ The system is implemented using the **Librosa** library in Python for audio proc
 ### **APPLICATIONS**  
 - **Healthcare Monitoring**: Detects early signs of emotional disorders.  
 - **Human-Robot Interaction**: Robots can adjust responses based on emotional tone.  
-- **AI-Powered Learning Platforms**: Enhances personalized learning experiences. 
 
 
