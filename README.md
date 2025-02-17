@@ -38,15 +38,7 @@ for real-time emotion recognition applications.
 6. **Security & Forensic Analysis**  
    - Assists in criminal investigations by analyzing emotional cues in voice recordings.  
 
----
 
-### **IMPLEMENTATION**  
-The system is implemented using the **Librosa** library in Python for audio processing, along with **machine learning models** for classification. The process includes:  
-
-1. **Data Collection**  
-   - Using datasets like **RAVDESS, TESS, CREMA-D, or EmoDB** for training and evaluation.  
-2. **Pre-processing**  
-   - Noise reduction, silence removal, and normalization of audio signals.  
 
 
   
