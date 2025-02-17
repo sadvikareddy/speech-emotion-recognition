@@ -66,10 +66,4 @@ The system is implemented using the **Librosa** library in Python for audio proc
 - **Smart Home Automation**  
   - Adjusts lighting, music, or temperature based on detected emotions.  
 
----
-
-### **APPLICATIONS**  
-- **Healthcare Monitoring**: Detects early signs of emotional disorders.  
-- **Human-Robot Interaction**: Robots can adjust responses based on emotional tone.  
-
 
