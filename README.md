@@ -47,12 +47,7 @@ The system is implemented using the **Librosa** library in Python for audio proc
    - Using datasets like **RAVDESS, TESS, CREMA-D, or EmoDB** for training and evaluation.  
 2. **Pre-processing**  
    - Noise reduction, silence removal, and normalization of audio signals.  
-3. **Feature Extraction**  
-   - Using **MFCCs, chroma features, and mel-spectrograms** to analyze speech patterns.  
-4. **Model Training & Classification**  
-   - Applying **Decision Trees, SVMs, or Deep Learning (CNN, LSTMs)** to classify emotions.  
-5. **Evaluation & Performance Metrics**  
-   - Using **accuracy, precision, recall, and F1 score** to measure model effectiveness.  
+
 
   
 
