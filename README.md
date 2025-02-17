@@ -25,17 +25,17 @@ for real-time emotion recognition applications.
 ----------------------
 
    ###  USE CASES
-1.  **Customer Service & Call Centers**  
+1. **Customer Service & Call Centers**  
    - SER can detect customer emotions during interactions, helping support agents respond better.  
 2. **Healthcare & Mental Health Monitoring** 
    - Helps in early detection of depression, stress, and anxiety through voice analysis.  
-3.  **Virtual Assistants & Chatbots**  
+3. **Virtual Assistants & Chatbots**  
    - Enhances AI assistants like Alexa, Google Assistant, and Siri to respond more empathetically.  
-4.  **Education & E-learning**  
+4. **Education & E-learning**  
    - Monitors students' engagement and emotions during online learning sessions.  
-5.  **Entertainment & Gaming**  
+5. **Entertainment & Gaming**  
    - Adjusts in-game environments and NPC (Non-Player Character) responses based on player emotions.  
-6.  **Security & Forensic Analysis**
+6. **Security & Forensic Analysis**
    - Assists in criminal investigations by analyzing emotional cues in voice recordings.  
 
 
