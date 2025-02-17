@@ -20,7 +20,7 @@ including accuracy, precision, recall, and F1 score. Results demonstrate that th
 system, using Librosa, achieves high accuracy and reliability, showcasing its potential
 for real-time emotion recognition applications.
 
-Here’s a detailed section covering **Use Cases, Implementation, Real-time Examples, Applications, and Future Scope** for your Speech Emotion Recognition (SER) project using Librosa.  
+
 
 ---
 
