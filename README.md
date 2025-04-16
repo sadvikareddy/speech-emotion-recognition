@@ -1,5 +1,5 @@
 
-                           Title : Speech Emotion Recognition using LIBROSA.
+                           Title : Speech Emotion Recognition using Machine learning Algorithms.
 
                                                ABSTRACT
 This project aims to develop an effective Speech Emotion Recognition (SER) system
